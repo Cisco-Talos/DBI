@@ -1,6 +1,6 @@
 # Talos DBI DR clients — DBI with DynamoRIO
 
-A collection of **Dynamic Binary Instrumentation (DBI)** clients and utilities built on top of **[DynamoRIO](http://dynamorio.org/)**. The clients are inspired by the REcon conference talk **“Attacking Modern Software Protection with Dynamic Binary Instrumentation”** by **Holger Unterbrink (Cisco Talos)**.
+A collection of **Dynamic Binary Instrumentation (DBI)** clients and utilities built on top of **[DynamoRIO](https://dynamorio.org)**. The clients are inspired by the REcon conference talk **“Attacking Modern Software Protection with Dynamic Binary Instrumentation”** by **Holger Unterbrink (Cisco Talos)**.
 
 This project helps reverse engineers, researchers, and security enthusiasts get hands-on with DynamoRIO through practical, reusable examples.
 
@@ -23,7 +23,7 @@ easily afterwards !
 - Learn how to instrument binaries and experiment with runtime analysis
 - Assemble your own tooling for research and reversing workflows
 
-We love contributions — especially **your DBI clients**. See [Contributing](#contributing).
+We love contributions — especially **your DBI clients**. See [Contributing](https://github.com/Cisco-Talos/DBI/blob/main/CONTRIBUTING.md).
 
 ---
 
@@ -72,6 +72,7 @@ We love contributions — especially **your DBI clients**. See [Contributing](#c
 ### Run client DLLs with DynamoRio
 - Start a MSYS2 shell on Windows (all scripts are tested with Windows 11 24H2)
 - Most client directories have a "run_tracer32.sh" and "run_tracer64.sh" example bash script or similar as an example how to execute the client DLL with a sample target application
+
 
 
 
