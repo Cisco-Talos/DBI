@@ -31,7 +31,7 @@ We love contributions — especially **your DBI clients**. See [Contributing](ht
 
 ### “How to get started” clients
 
-| Client | Description |
+| DR Client | Description |
 | --- | --- |
 | `simple_client` | The simplest “hello world” DynamoRIO client. |
 | `simple_client2` | Still simple; prints all modules loaded at runtime. |
@@ -41,11 +41,13 @@ We love contributions — especially **your DBI clients**. See [Contributing](ht
 | `tracer-memdump` | Dumps memory data the **source operand** points to within a specified range. |
 
 ### Docs
-| `HU-DBI-Recon2025.pdf` | Recon talk |
+| Doc file | Description |
+| --- | --- |
+| `HU-DBI-Recon2025.pdf` | Recon talk. Gives an intro into DBI with DynamoRio |
 
 ### Malware-simulation samples (for testing clients)
 
-| Sample | Description |
+| Test sample | Description |
 | --- | --- |
 | `anti_x` | Simulates typical malware obfuscation/anti-analysis behaviors without doing anything malicious. |
 | `RelaunchMe` | Restarts itself from the temp directory. |
