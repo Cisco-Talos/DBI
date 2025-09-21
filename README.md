@@ -56,7 +56,7 @@ We love contributions — especially **your DBI clients**. See [Contributing](ht
 ## Getting started
 
 ### Prerequisites
-- Install **[DynamoRIO](http://dynamorio.org/)** (Clients were tested with DR 11.3.0)
+- Install **[DynamoRIO](https://dynamorio.org/page_releases.html)** (Clients were tested with DR 11.3.0)
 - Installing DynamoRio is as easy as downloading it and unzipping it to a directory 
 - Some test scripts assume to find "drrun.exe" at "C:\tools\DynamoRIO-Windows-11.3.0\bin32\drrun.exe"
 - Either make sure you are using the same directory or edit the scripts
@@ -72,6 +72,7 @@ We love contributions — especially **your DBI clients**. See [Contributing](ht
 ### Run client DLLs with DynamoRio
 - Start a MSYS2 shell on Windows (all scripts are tested with Windows 11 24H2)
 - Most client directories have a "run_tracer32.sh" and "run_tracer64.sh" example bash script or similar as an example how to execute the client DLL with a sample target application
+
 
 
 
