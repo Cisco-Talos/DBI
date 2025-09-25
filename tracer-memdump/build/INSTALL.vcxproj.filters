@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hunte\source\repos\Talos-Repos\DBI\tracer-memdump\build\CMakeFiles\446e727a4347e8eed8d0a5077e5e128b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{544338CC-4FDE-30C5-8776-5CDE40F0E356}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

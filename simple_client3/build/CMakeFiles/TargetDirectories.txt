@@ -1,0 +1,4 @@
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/client3.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/INSTALL.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/ZERO_CHECK.dir

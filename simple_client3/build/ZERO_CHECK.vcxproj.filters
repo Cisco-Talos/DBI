@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hunte\source\repos\Talos-Repos\DBI\simple_client3\build\CMakeFiles\f6907d3b61ed278296b13a97cf93347d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7FCF4AB7-C6D2-37BE-9FD0-207EF408000B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

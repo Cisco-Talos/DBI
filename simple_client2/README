@@ -1,0 +1,12 @@
+If you are using MSY2 on Windows use the MSYS_build32.sh or MSYS_build64.sh file to build the project.
+
+Alternativly, you can manually start a MS VisualStudio Developer Prompt and run the build32.bat or build64.bat
+
+The build.bat scripts will also tell you how to execute the client.dll. 
+
+---
+
+This is the first client which actually does something useful. It prints out all loaded modules (DLLs) at runtime.
+
+
+

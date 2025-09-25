@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hunte\source\repos\Talos-Repos\DBI\simple_client4_TraceCacheMon\client4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hunte\source\repos\Talos-Repos\DBI\simple_client4_TraceCacheMon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{156E4DF7-2ACB-391F-8DB6-3F32940C22FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:/Users/hunte/source/repos/Talos-Repos/DBI/tracer-memdump/build/CMakeFiles/memdump.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/tracer-memdump/build/CMakeFiles/INSTALL.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/tracer-memdump/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/tracer-memdump/build/CMakeFiles/ZERO_CHECK.dir

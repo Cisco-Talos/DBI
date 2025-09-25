@@ -1,0 +1,4 @@
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client4_TraceCacheMon/build/CMakeFiles/client4.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client4_TraceCacheMon/build/CMakeFiles/INSTALL.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client4_TraceCacheMon/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client4_TraceCacheMon/build/CMakeFiles/ZERO_CHECK.dir

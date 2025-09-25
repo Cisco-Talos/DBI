@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\testsamples\\anti_x\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59583B1D-F071-4E1F-890F-6097F2510C93}|anti_x\\anti_x.vcxproj|C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\testsamples\\anti_x\\anti_x\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59583B1D-F071-4E1F-890F-6097F2510C93}|anti_x\\anti_x.vcxproj|solutionrelative:anti_x\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59583B1D-F071-4E1F-890F-6097F2510C93}|anti_x\\anti_x.vcxproj|C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\testsamples\\anti_x\\anti_x\\asm64.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59583B1D-F071-4E1F-890F-6097F2510C93}|anti_x\\anti_x.vcxproj|solutionrelative:anti_x\\asm64.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\testsamples\\anti_x\\anti_x\\main.cpp",
+              "RelativeDocumentMoniker": "anti_x\\main.cpp",
+              "ToolTip": "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\testsamples\\anti_x\\anti_x\\main.cpp",
+              "RelativeToolTip": "anti_x\\main.cpp",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAANwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T16:37:05.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asm64.asm",
+              "DocumentMoniker": "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\testsamples\\anti_x\\anti_x\\asm64.asm",
+              "RelativeDocumentMoniker": "anti_x\\asm64.asm",
+              "ToolTip": "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\testsamples\\anti_x\\anti_x\\asm64.asm",
+              "RelativeToolTip": "anti_x\\asm64.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T16:35:10.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

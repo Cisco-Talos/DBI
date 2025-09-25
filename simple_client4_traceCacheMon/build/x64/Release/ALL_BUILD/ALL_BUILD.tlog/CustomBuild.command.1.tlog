@@ -1,0 +1,10 @@
+^C:\USERS\HUNTE\SOURCE\REPOS\TALOS-REPOS\DBI\SIMPLE_CLIENT4_TRACECACHEMON\CMAKELISTS.TXT
+setlocal
+C:\Strawberry\c\bin\cmake.exe -SC:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client4_TraceCacheMon -BC:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client4_TraceCacheMon/build --check-stamp-file C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client4_TraceCacheMon/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

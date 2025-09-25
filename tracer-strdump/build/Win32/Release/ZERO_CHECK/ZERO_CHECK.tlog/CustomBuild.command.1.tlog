@@ -1,0 +1,10 @@
+^C:\USERS\HUNTE\SOURCE\REPOS\TALOS-REPOS\DBI\TRACER-STRDUMP\BUILD\CMAKEFILES\257D2E33596E7A6353AD1AEC7EC89999\GENERATE.STAMP.RULE
+setlocal
+C:\Strawberry\c\bin\cmake.exe -SC:/Users/hunte/source/repos/Talos-Repos/DBI/tracer-strdump -BC:/Users/hunte/source/repos/Talos-Repos/DBI/tracer-strdump/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hunte/source/repos/Talos-Repos/DBI/tracer-strdump/build/DRclient.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

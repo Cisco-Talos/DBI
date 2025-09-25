@@ -1,0 +1,13 @@
+client3 - Simple DynamoRio client which prints out loaded DLLs and
+          disassembles all instructions in a certain range at runtime
+
+          Use this client only with the x64 anti-x test target app, it is
+          changing the return value of the function always_return_true()
+          at 0x140001190 in anti-x. It will not work on a 32bit version. 
+          We keep the 32bit version as homework for you. 
+          Check the output for "[ANTI-X] This value is always true: false"
+          to see it is working. 
+
+          This shows how to use drwrap to manipulate the target apps
+          code at runtime, plus a few other things. Check out the 
+          source code. :)

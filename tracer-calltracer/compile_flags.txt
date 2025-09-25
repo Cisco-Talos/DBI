@@ -1,0 +1,6 @@
+-IC:/tools/DynamoRIO-Windows-11.3.0/include
+-IC:/tools/DynamoRIO-Windows-11.3.0/ext/include
+-DWINDOWS
+-DX86_64
+-std=c11
+-Wall

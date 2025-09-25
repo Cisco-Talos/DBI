@@ -1,0 +1,6 @@
+@echo off
+echo compiling...
+rd /S /Q build
+cmake -S . -B build -G "Visual Studio 16 2019" -A x64 -DCMAKE_BUILD_TYPE=Release
+cmake --build build --config Release --verbose
+

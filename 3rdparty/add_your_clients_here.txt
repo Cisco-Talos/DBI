@@ -1,0 +1,2 @@
+This is the directory all 3rd party scripts and clients need to be submitted to.
+3rd party scripts or clients in any other directory will not be accepted.

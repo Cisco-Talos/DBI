@@ -1,0 +1,12 @@
+If you are using MSY2 on Windows use the MSYS_build32.sh or MSYS_build64.sh file to build the project.
+
+Alternativly, you can manually start a MS VisualStudio Developer Prompt and run the build32.bat or build64.bat
+
+The build.bat scripts will also tell you how to execute the client.dll. 
+
+---
+
+This is the most simple DynamoRio client example, it is only good for getting started witht he build chain and
+basic concepts. Be aware that we kept the CMakeLists.txt as simple as possible too, for that reason, the 32/64 bit 
+build.bat files are overwriting the former build version of the build\Release\simple_client.dll.
+
