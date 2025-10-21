@@ -105,10 +105,10 @@ C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client1/build/CMakeFiles/3.29
 C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client1/build/CMakeFiles/3.29.2/CMakeSystem.cmake
 C:/tools/DynamoRIO-Windows-11.3.0/cmake/DynamoRIOConfig.cmake
 C:/tools/DynamoRIO-Windows-11.3.0/cmake/DynamoRIOConfigVersion.cmake
-C:/tools/DynamoRIO-Windows-11.3.0/cmake/DynamoRIOTarget64-relwithdebinfo.cmake
-C:/tools/DynamoRIO-Windows-11.3.0/cmake/DynamoRIOTarget64.cmake
-C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DRMFTarget64-debug.cmake
-C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DRMFTarget64-relwithdebinfo.cmake
-C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DRMFTarget64.cmake
+C:/tools/DynamoRIO-Windows-11.3.0/cmake/DynamoRIOTarget32-relwithdebinfo.cmake
+C:/tools/DynamoRIO-Windows-11.3.0/cmake/DynamoRIOTarget32.cmake
+C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DRMFTarget32-debug.cmake
+C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DRMFTarget32-relwithdebinfo.cmake
+C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DRMFTarget32.cmake
 C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DrMemoryFrameworkConfig.cmake
 C:/tools/DynamoRIO-Windows-11.3.0/drmemory/drmf/DrMemoryFrameworkConfigVersion.cmake

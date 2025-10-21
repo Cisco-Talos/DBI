@@ -26,7 +26,7 @@ events:
       Microsoft (R) Build Engine version 16.11.6+a918ceb31 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 25/09/2025 16:55:41.
+      Build started 21/10/2025 12:41:39.
       Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\3.29.2\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -52,7 +52,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.99
+      Time Elapsed 00:00:00.89
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -80,7 +80,7 @@ events:
       Microsoft (R) Build Engine version 16.11.6+a918ceb31 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 25/09/2025 16:55:42.
+      Build started 21/10/2025 12:41:40.
       Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\3.29.2\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -106,7 +106,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.73
+      Time Elapsed 00:00:00.72
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,8 +125,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-pb85kd"
-      binary: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-pb85kd"
+      source: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-9hvukn"
+      binary: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-9hvukn"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -135,39 +135,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-pb85kd'
+        Change Dir: 'C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-9hvukn'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_44ee5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_9a71b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.6+a918ceb31 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 25/09/2025 16:55:43.
-        Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pb85kd\\cmTC_44ee5.vcxproj" on node 1 (default targets).
+        Build started 21/10/2025 12:41:41.
+        Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9hvukn\\cmTC_9a71b.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_44ee5.dir\\Debug\\".
-          Creating directory "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pb85kd\\Debug\\".
-          Creating directory "cmTC_44ee5.dir\\Debug\\cmTC_44ee5.tlog\\".
+          Creating directory "cmTC_9a71b.dir\\Debug\\".
+          Creating directory "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9hvukn\\Debug\\".
+          Creating directory "cmTC_9a71b.dir\\Debug\\cmTC_9a71b.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_44ee5.dir\\Debug\\cmTC_44ee5.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_9a71b.dir\\Debug\\cmTC_9a71b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_44ee5.dir\\Debug\\\\" /Fd"cmTC_44ee5.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9a71b.dir\\Debug\\\\" /Fd"cmTC_9a71b.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30159 for x64
-          Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCCompilerABI.c
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_44ee5.dir\\Debug\\\\" /Fd"cmTC_44ee5.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9a71b.dir\\Debug\\\\" /Fd"cmTC_9a71b.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pb85kd\\Debug\\cmTC_44ee5.exe" /INCREMENTAL /ILK:"cmTC_44ee5.dir\\Debug\\cmTC_44ee5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-pb85kd/Debug/cmTC_44ee5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-pb85kd/Debug/cmTC_44ee5.lib" /MACHINE:X64  /machine:x64 cmTC_44ee5.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_44ee5.vcxproj -> C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pb85kd\\Debug\\cmTC_44ee5.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9hvukn\\Debug\\cmTC_9a71b.exe" /INCREMENTAL /ILK:"cmTC_9a71b.dir\\Debug\\cmTC_9a71b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-9hvukn/Debug/cmTC_9a71b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-9hvukn/Debug/cmTC_9a71b.lib" /MACHINE:X64  /machine:x64 cmTC_9a71b.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_9a71b.vcxproj -> C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9hvukn\\Debug\\cmTC_9a71b.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_44ee5.dir\\Debug\\cmTC_44ee5.tlog\\unsuccessfulbuild".
-          Touching "cmTC_44ee5.dir\\Debug\\cmTC_44ee5.tlog\\cmTC_44ee5.lastbuildstate".
-        Done Building Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pb85kd\\cmTC_44ee5.vcxproj" (default targets).
+          Deleting file "cmTC_9a71b.dir\\Debug\\cmTC_9a71b.tlog\\unsuccessfulbuild".
+          Touching "cmTC_9a71b.dir\\Debug\\cmTC_9a71b.tlog\\cmTC_9a71b.lastbuildstate".
+        Done Building Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9hvukn\\cmTC_9a71b.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.66
+        Time Elapsed 00:00:00.71
         
       exitCode: 0
   -
@@ -207,8 +207,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-bchj3k"
-      binary: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-bchj3k"
+      source: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-i18znt"
+      binary: "C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-i18znt"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -217,39 +217,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-bchj3k'
+        Change Dir: 'C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-i18znt'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_843eb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe" cmTC_86a4f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.6+a918ceb31 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 25/09/2025 16:55:44.
-        Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bchj3k\\cmTC_843eb.vcxproj" on node 1 (default targets).
+        Build started 21/10/2025 12:41:42.
+        Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i18znt\\cmTC_86a4f.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_843eb.dir\\Debug\\".
-          Creating directory "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bchj3k\\Debug\\".
-          Creating directory "cmTC_843eb.dir\\Debug\\cmTC_843eb.tlog\\".
+          Creating directory "cmTC_86a4f.dir\\Debug\\".
+          Creating directory "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i18znt\\Debug\\".
+          Creating directory "cmTC_86a4f.dir\\Debug\\cmTC_86a4f.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_843eb.dir\\Debug\\cmTC_843eb.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_86a4f.dir\\Debug\\cmTC_86a4f.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_843eb.dir\\Debug\\\\" /Fd"cmTC_843eb.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_86a4f.dir\\Debug\\\\" /Fd"cmTC_86a4f.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30159 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_843eb.dir\\Debug\\\\" /Fd"cmTC_843eb.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_86a4f.dir\\Debug\\\\" /Fd"cmTC_86a4f.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Strawberry\\c\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bchj3k\\Debug\\cmTC_843eb.exe" /INCREMENTAL /ILK:"cmTC_843eb.dir\\Debug\\cmTC_843eb.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-bchj3k/Debug/cmTC_843eb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-bchj3k/Debug/cmTC_843eb.lib" /MACHINE:X64  /machine:x64 cmTC_843eb.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_843eb.vcxproj -> C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bchj3k\\Debug\\cmTC_843eb.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i18znt\\Debug\\cmTC_86a4f.exe" /INCREMENTAL /ILK:"cmTC_86a4f.dir\\Debug\\cmTC_86a4f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-i18znt/Debug/cmTC_86a4f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hunte/source/repos/Talos-Repos/DBI/simple_client3/build/CMakeFiles/CMakeScratch/TryCompile-i18znt/Debug/cmTC_86a4f.lib" /MACHINE:X64  /machine:x64 cmTC_86a4f.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_86a4f.vcxproj -> C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i18znt\\Debug\\cmTC_86a4f.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_843eb.dir\\Debug\\cmTC_843eb.tlog\\unsuccessfulbuild".
-          Touching "cmTC_843eb.dir\\Debug\\cmTC_843eb.tlog\\cmTC_843eb.lastbuildstate".
-        Done Building Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bchj3k\\cmTC_843eb.vcxproj" (default targets).
+          Deleting file "cmTC_86a4f.dir\\Debug\\cmTC_86a4f.tlog\\unsuccessfulbuild".
+          Touching "cmTC_86a4f.dir\\Debug\\cmTC_86a4f.tlog\\cmTC_86a4f.lastbuildstate".
+        Done Building Project "C:\\Users\\hunte\\source\\repos\\Talos-Repos\\DBI\\simple_client3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i18znt\\cmTC_86a4f.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.65
+        Time Elapsed 00:00:00.72
         
       exitCode: 0
   -

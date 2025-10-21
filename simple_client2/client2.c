@@ -57,7 +57,8 @@ void event_module_load_trace_instr(void* drcontext, const module_data_t* info, b
 void event_exit(void)
 // executed when process exits
 {
-	dr_global_free(my_buffer, buffer_size); // free allocated buffer 
+	//dr_global_free(my_buffer, buffer_size); // free allocated buffer, try not to free this buffer and run a debug build
+	                                          // to see the memory leak feature of drrun (-debug)
 	drmgr_unregister_tls_field(tls_idx);
 	drmgr_exit();
 }
