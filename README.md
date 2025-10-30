@@ -8,7 +8,7 @@ development environment.
 
 All clients and samples are build for Microsoft Windows 11. 
 
-If you are new to DynamoRio, please read the corrosponding **[Talos blog post](https://blog.talosintelligence.com/dynamic-binary-instrumentation-dbi-with-dynamorio/)** to get started (see below).
+If you are new to DynamoRio, please read the corresponding **[Talos blog post](https://blog.talosintelligence.com/dynamic-binary-instrumentation-dbi-with-dynamorio/)** to get started (see below).
   
 
 ## WARNING 
@@ -108,6 +108,7 @@ For example, let's look at the tracer-memdump directory:
 
 If you build your own clients, you might want to copy the tracer-memdump directory as a template.
 You just need to change the variables in the CMakeLists.txt file to your DLL and src filename and directories.
+
 
 
 
