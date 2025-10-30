@@ -2,8 +2,8 @@
 
 A collection of **Dynamic Binary Instrumentation (DBI)** clients and utilities built on top of **[DynamoRIO](https://dynamorio.org)**. The clients are inspired by the REcon conference talk **“Attacking Modern Software Protection with Dynamic Binary Instrumentation”** by **Holger Unterbrink (Cisco Talos)**.
 
-This project helps reverse engineers, researchers, and security enthusiasts get hands-on with DynamoRIO through practical, reusable examples. The scripts are mainly build with the idea to keep them as simple as possible, to make it easier to understand the concept, 
-not to make them bullet proof. We also tried to keep it as flexible as possible, to make it easy to adapt the project to your personal
+This project helps reverse engineers, researchers, and security enthusiasts get hands-on with DynamoRIO through practical, reusable examples. The clients are mainly build with the idea to keep them as simple as possible, to make it easier to understand the concept, 
+not to make them bullet proof. For example, they are missing some exception or input checks, which you might want to add if your client runs in a productive environment. We also tried to keep it as flexible as possible, to make it easy to adapt the project to your personal
 development environment. 
 
 All clients and samples are build for Microsoft Windows 11. 
@@ -108,4 +108,5 @@ For example, let's look at the tracer-memdump directory:
 
 If you build your own clients, you might want to copy the tracer-memdump directory as a template.
 You just need to change the variables in the CMakeLists.txt file to your DLL and src filename and directories.
+
 
